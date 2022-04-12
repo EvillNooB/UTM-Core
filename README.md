@@ -1,3 +1,3 @@
 # utm-core
 Core for diy Universal Testing Machines
-WIP
+\n work in progress
